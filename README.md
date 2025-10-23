@@ -1,3 +1,3 @@
 # aof
 Tareas de ofimatica
-![Ianet el guapo](/images/logo.png)
+![Ianet el guapo](/img/01.png)
